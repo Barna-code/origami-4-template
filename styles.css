@@ -44,3 +44,14 @@ a:visited{
     left:45%;
     transform: translate(-40%, -40%);
 }
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
